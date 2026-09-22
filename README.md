@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # 🌾 AgroMercado Backend API
 
 Une API RESTful robuste construite avec **Django** et **Django REST Framework (DRF)** pour une plateforme e-commerce connectant les producteurs agricoles aux acheteurs.
