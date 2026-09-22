@@ -38,7 +38,7 @@ python manage.py createsuperuser
 python manage.py runserver
 \`\`\`
 
-Documentation Swagger : http://127.0.0.1:8000/api/docs/
+Accédez à l'application sur http://127.0.0.1:8000/ (documentation Swagger : `/api/docs/`, interface admin : `/admin/`).
 
 ## 📄 Licence
 
