@@ -7,7 +7,11 @@ SECRET_KEY = 'django-insecure-20nfqy26xzan3!k#hg(ap_###k=f!sh1ijsahvz^j8o=0pz0yz
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+'localhost',
+    '127.0.0.1',
+    'agromercado-backend-g81r.onrender.com',
+]
 
 
 # Application definition
