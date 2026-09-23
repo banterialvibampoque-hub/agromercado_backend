@@ -3,7 +3,7 @@ services:
     name: agromercado-backend
     env: python
     buildCommand: "./build.sh"
-    startCommand: "gunicorn core.wsgi:application"
+    startCommand: "gunicorn api.wsgi:application"
     envVars:
       - key: PYTHON_VERSION
         value: 3.10.0
